@@ -22,4 +22,4 @@ Make sure you have the following installed:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/Flood-Detection.git
+   git clone https://github.com/yourusername/Flood-Detection.git](https://github.com/FIZZ5Z/Flood-Detection.git
