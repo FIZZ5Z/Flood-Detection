@@ -23,3 +23,25 @@ Make sure you have the following installed:
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/Flood-Detection.git](https://github.com/FIZZ5Z/Flood-Detection.git
+
+   ## Credits
+
+This project is inspired by and modified from the following sources:
+
+- **Sohail Ahmed Khan**: The project was built using ideas and insights from [Sohail Ahmed Khan](https://github.com/sohailahmedkhan) [Project](https://github.com/sohailahmedkhan/Flood-Detection-from-Images-using-Deep-Learning.git). His work on flood detection inspired the implementation of the model.
+
+
+
+- **Code Inspiration**: The code was inspired and modified from [DeepLizard](https://deeplizard.com/), with some adaptations to suit the flood detection task.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Acknowledgements
+
+- Keras and MobileNet for the pretrained CNN model.
+- The authors of the research paper for their data and methodology on flood detection.
+- Google Images for the "No Flooding" images collected through an automated script.
+- DeepLizard for providing a solid foundation for the flood detection model.
+
