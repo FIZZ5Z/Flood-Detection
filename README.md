@@ -33,6 +33,7 @@ This project is inspired by and modified from the following sources:
 
 - **Sohail Ahmed Khan**: The project was built using ideas and insights from [Sohail Ahmed Khan](https://github.com/sohailahmedkhan) [Project](https://github.com/sohailahmedkhan/Flood-Detection-from-Images-using-Deep-Learning.git). His work on flood detection inspired the implementation of the model.
 
+-**Rainfall Prediction Model**: The idea for the rainfall prediction model was inspired by [Siddhardhan's YouTube project](https://youtu.be/Pn5NTfeKJzY?si=P-nbsgqznXrYme7m). The video covers a complete walkthrough of predicting rainfall using machine learning, including data preprocessing, model selection, training, and evaluation. 
 
 
 - **Code Inspiration**: The code was inspired and modified from [DeepLizard](https://deeplizard.com/), with some adaptations to suit the flood detection task.
