@@ -14,7 +14,7 @@ To get a copy of this project up and running locally, follow these instructions.
 ### Prerequisites
 
 Make sure you have the following installed:
-- Python 3.x
+- Python 
 - Node.js and npm (for frontend)
 - `pip` for installing Python dependencies
 
