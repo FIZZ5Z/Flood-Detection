@@ -23,8 +23,11 @@ Make sure you have the following installed:
 1. Clone this repository:
    ```bash
    git clone https://github.com/yourusername/Flood-Detection.git](https://github.com/FIZZ5Z/Flood-Detection.git
+   
+2.Run app.py and parallely run App.js using npm start
+   
 
-   ## Credits
+## Credits
 
 This project is inspired by and modified from the following sources:
 
