@@ -22,7 +22,7 @@ Make sure you have the following installed:
 
 1. Clone this repository:
    ```bash
-   git clone 
+   git clone https://github.com/FIZZ5Z/Flood-Detection.git
    
 2.Run app.py and parallely run App.js using npm start
    
