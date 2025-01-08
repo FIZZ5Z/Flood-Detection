@@ -1,4 +1,4 @@
-#Team 2
+<p> Team 2 - EarthAlert AI <b> Aman Raj - ENG21CT0003</b><b>Ankit Singh - ENG21CT0004</b><b>MD Faizal - ENG21CT0026</b><b>Raja Kumar - ENG21CT0033</b> </p>
 
 # Flood-Detection
 
